@@ -10,9 +10,9 @@ A few dollars a month in support go a long way in assisting me develop more Play
 
 ## Special Thanks for Funding
 
-Thomas Kildren
-Phoenix Spaulding
-Marc Violini
+Thomas Kildren  
+Phoenix Spaulding  
+Marc Violini  
 
 ## License
 
