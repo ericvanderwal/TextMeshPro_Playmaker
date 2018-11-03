@@ -2,16 +2,6 @@
 
 These c# files have been created to be used in conjunction with the Unity3d asset TextMesh Pro found on the Unity Asset Store (currently for free). https://www.assetstore.unity3d.com/en/#!/content/84126
 
-## Read Me First
-
-Warning for unity 5.6 users.  
-
-The newest version of textmesh pro makes a few big changes, which breaks the textmesh pro playmaker actions. They did NOT use conditionals, and instead released a new version only for 5.6. You can see the list of changes here: http://digitalnativestudios.com/forum/index.php?topic=1363.msg10122#msg10122  
-
-Currently my actions do not support this new version (only available for 5.6) if you are updated to textmesh pro version 1.0.55 and above.  
-
-I will likely add support, but maybe not for a few weeks or more.  
-
 ## How You Can Help
 
 This package was partially funded through generous donors of the Dumb Game Dev Patreon Account: https://www.patreon.com/playmaker
